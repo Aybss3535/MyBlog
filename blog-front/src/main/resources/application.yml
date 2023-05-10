@@ -6,7 +6,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/blog_db?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
     username: root
-    password: root
+    password: *
   servlet:
     multipart:
       max-file-size: 2MB
@@ -24,7 +24,7 @@ mybatis-plus:
     log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
 
 oss:
-  accessKey: SAwu4wzMdzXMC_QL0dJWErEXIXHGqY-peVkg-vcp
-  secretKey: 7Yqd7fN0OaEdUV64O7D6XKDj6MTtEvQFbZ--EvsK
-  bucket: aybss-blog
-  domainName: http://oss.aybss.cc/
+  accessKey: *
+  secretKey: *
+  bucket: *
+  domainName: *
