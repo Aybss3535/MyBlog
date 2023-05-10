@@ -1,0 +1,30 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/blog_db?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC&serverTimezone=Asia/Shanghai
+    username: root
+    password: root
+  servlet:
+    multipart:
+      max-file-size: 2MB
+      max-request-size: 5MB
+
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+  global-config:
+    db-config:
+      logic-delete-value: 1
+      logic-not-delete-value: 0
+      logic-delete-field: delFlag
+      id-type: auto
+
+server:
+  port: 8989
+
+
+oss:
+  accessKey: SAwu4wzMdzXMC_QL0dJWErEXIXHGqY-peVkg-vcp
+  secretKey: 7Yqd7fN0OaEdUV64O7D6XKDj6MTtEvQFbZ--EvsK
+  bucket: aybss-blog
+  domainName: http://oss.aybss.cc/

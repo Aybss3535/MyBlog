@@ -1,0 +1,21 @@
+package com.aybss.domain.vo;
+
+import com.aybss.domain.entity.Role;
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+import java.util.List;
+
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+public class UserRoleVo {
+
+    List<Long> roleIds;
+
+    List<Role> roles;
+
+    UserListVo user;
+
+}

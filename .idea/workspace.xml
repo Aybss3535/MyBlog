@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3209f5ed-e182-4e11-9138-99c39d4ad9c0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Mybatis Mapper" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/tools/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\tools\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Ifrn1jAPXm1x7g6WSMB3Iy3AQB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/blog-admin/src/main/java/com/aybss" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sg-blog-vue" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\javaProject\Blog\blog-admin\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.aybss.filter" />
+      <recent name="com.aybss.runner" />
+      <recent name="com.aybss.domain.vo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\javaProject\Blog\blog-framework\src\main\java\com\aybss\config" />
+      <recent name="D:\project\javaProject\Blog\blog-framework\src\main\java\com\aybss\utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ApplicationTest.testJwt">
+    <configuration name="ApplicationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blog-front" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aybss.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.aybss" />
+      <option name="MAIN_CLASS_NAME" value="com.aybss.ApplicationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationTest.testHotArticleList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blog-front" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aybss.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.aybss" />
+      <option name="MAIN_CLASS_NAME" value="com.aybss.ApplicationTest" />
+      <option name="METHOD_NAME" value="testHotArticleList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationTest.testJwt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blog-front" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aybss.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.aybss" />
+      <option name="MAIN_CLASS_NAME" value="com.aybss.ApplicationTest" />
+      <option name="METHOD_NAME" value="testJwt" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="blog-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aybss.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.aybss.AdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="blog-front" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aybss.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.aybss.BlogApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ApplicationTest.testJwt" />
+        <item itemvalue="Spring Boot.AdminApplication" />
+        <item itemvalue="Spring Boot.BlogApplication" />
+        <item itemvalue="JUnit.ApplicationTest.testHotArticleList" />
+        <item itemvalue="JUnit.ApplicationTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3209f5ed-e182-4e11-9138-99c39d4ad9c0" name="Default Changelist" comment="" />
+      <created>1670583641495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670583641495</updated>
+      <workItem from="1670583643947" duration="1841000" />
+      <workItem from="1670585626140" duration="37557000" />
+      <workItem from="1671068246592" duration="25719000" />
+      <workItem from="1671152893767" duration="18999000" />
+      <workItem from="1671360504580" duration="67624000" />
+      <workItem from="1671538948450" duration="181000" />
+      <workItem from="1671635307206" duration="5042000" />
+      <workItem from="1672736670921" duration="6698000" />
+      <workItem from="1675761706575" duration="697000" />
+      <workItem from="1675839769290" duration="974000" />
+      <workItem from="1675848221916" duration="1207000" />
+      <workItem from="1675912729397" duration="7887000" />
+      <workItem from="1676185796745" duration="609000" />
+      <workItem from="1676689054279" duration="4618000" />
+      <workItem from="1676719861652" duration="5956000" />
+      <workItem from="1676778133092" duration="5160000" />
+      <workItem from="1677116435129" duration="3536000" />
+      <workItem from="1677151151426" duration="1340000" />
+      <workItem from="1677156953445" duration="25108000" />
+      <workItem from="1677465812582" duration="162000" />
+      <workItem from="1677467320775" duration="66000" />
+      <workItem from="1677467437049" duration="27000" />
+      <workItem from="1677467475366" duration="14000" />
+      <workItem from="1677467509616" duration="287000" />
+      <workItem from="1677467810209" duration="327000" />
+      <workItem from="1677593471763" duration="7181000" />
+      <workItem from="1677725406360" duration="2310000" />
+      <workItem from="1677727753633" duration="3350000" />
+      <workItem from="1678151830330" duration="2925000" />
+      <workItem from="1678274649094" duration="1916000" />
+      <workItem from="1678343043745" duration="6386000" />
+      <workItem from="1679212231563" duration="1241000" />
+      <workItem from="1679292706241" duration="4057000" />
+      <workItem from="1679384346602" duration="1194000" />
+      <workItem from="1680600488435" duration="1850000" />
+      <workItem from="1680773391105" duration="1474000" />
+      <workItem from="1680788056473" duration="283000" />
+      <workItem from="1681180079873" duration="2524000" />
+      <workItem from="1683278339567" duration="2710000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="442" y="154" key="#Project_Structure" timestamp="1677726051295">
+      <screen x="0" y="0" width="1536" height="912" />
+    </state>
+    <state x="442" y="154" key="#Project_Structure/0.0.1536.912/3072.0.1920.1032@0.0.1536.912" timestamp="1677726051295" />
+    <state x="3568" y="440" width="673" height="592" key="#xdebugger.evaluate" timestamp="1679293801945">
+      <screen x="3072" y="0" width="1920" height="1032" />
+    </state>
+    <state x="3568" y="440" width="673" height="592" key="#xdebugger.evaluate/0.0.1536.912/3072.0.1920.1032@3072.0.1920.1032" timestamp="1679293801945" />
+    <state width="427" height="466" key="DebuggerActiveHint" timestamp="1683294920514">
+      <screen x="3072" y="0" width="1920" height="1032" />
+    </state>
+    <state width="427" height="466" key="DebuggerActiveHint/0.0.1536.912/3072.0.1920.1032@3072.0.1920.1032" timestamp="1683294920514" />
+    <state x="592" y="239" key="FileChooserDialogImpl" timestamp="1677116579062">
+      <screen x="0" y="0" width="1536" height="912" />
+    </state>
+    <state x="592" y="239" key="FileChooserDialogImpl/0.0.1536.912/3072.0.1920.1032@0.0.1536.912" timestamp="1677116579062" />
+    <state width="1878" height="432" key="GridCell.Tab.0.bottom" timestamp="1683295949486">
+      <screen x="3072" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1494" height="293" key="GridCell.Tab.0.bottom/0.0.1536.912/3072.0.1920.1032@0.0.1536.912" timestamp="1677156969792" />
+    <state width="1878" height="432" key="GridCell.Tab.0.bottom/0.0.1536.912/3072.0.1920.1032@3072.0.1920.1032" timestamp="1683295949486" />
+    <state width="1878" height="432" key="GridCell.Tab.0.center" timestamp="1683295949486">
+      <screen x="3072" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1494" height="293" key="GridCell.Tab.0.center/0.0.1536.912/3072.0.1920.1032@0.0.1536.912" timestamp="1677156969792" />
+    <state width="1878" height="432" key="GridCell.Tab.0.center/0.0.1536.912/3072.0.1920.1032@3072.0.1920.1032" timestamp="1683295949486" />
+    <state width="1878" height="432" key="GridCell.Tab.0.left" timestamp="1683295949485">
+      <screen x="3072" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1494" height="293" key="GridCell.Tab.0.left/0.0.1536.912/3072.0.1920.1032@0.0.1536.912" timestamp="1677156969792" />
+    <state width="1878" height="432" key="GridCell.Tab.0.left/0.0.1536.912/3072.0.1920.1032@3072.0.1920.1032" timestamp="1683295949485" />
+    <state width="1878" height="432" key="GridCell.Tab.0.right" timestamp="1683295949486">
+      <screen x="3072" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1494" height="293" key="GridCell.Tab.0.right/0.0.1536.912/3072.0.1920.1032@0.0.1536.912" timestamp="1677156969792" />
+    <state width="1878" height="432" key="GridCell.Tab.0.right/0.0.1536.912/3072.0.1920.1032@3072.0.1920.1032" timestamp="1683295949486" />
+    <state width="1878" height="432" key="GridCell.Tab.1.bottom" timestamp="1683295949486">
+      <screen x="3072" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1494" height="315" key="GridCell.Tab.1.bottom/0.0.1536.912/3072.0.1920.1032@0.0.1536.912" timestamp="1677145741872" />
+    <state width="1878" height="432" key="GridCell.Tab.1.bottom/0.0.1536.912/3072.0.1920.1032@3072.0.1920.1032" timestamp="1683295949486" />
+    <state width="1878" height="432" key="GridCell.Tab.1.center" timestamp="1683295949486">
+      <screen x="3072" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1494" height="315" key="GridCell.Tab.1.center/0.0.1536.912/3072.0.1920.1032@0.0.1536.912" timestamp="1677145741872" />
+    <state width="1878" height="432" key="GridCell.Tab.1.center/0.0.1536.912/3072.0.1920.1032@3072.0.1920.1032" timestamp="1683295949486" />
+    <state width="1878" height="432" key="GridCell.Tab.1.left" timestamp="1683295949486">
+      <screen x="3072" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1494" height="315" key="GridCell.Tab.1.left/0.0.1536.912/3072.0.1920.1032@0.0.1536.912" timestamp="1677145741872" />
+    <state width="1878" height="432" key="GridCell.Tab.1.left/0.0.1536.912/3072.0.1920.1032@3072.0.1920.1032" timestamp="1683295949486" />
+    <state width="1878" height="432" key="GridCell.Tab.1.right" timestamp="1683295949486">
+      <screen x="3072" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1494" height="315" key="GridCell.Tab.1.right/0.0.1536.912/3072.0.1920.1032@0.0.1536.912" timestamp="1677145741872" />
+    <state width="1878" height="432" key="GridCell.Tab.1.right/0.0.1536.912/3072.0.1920.1032@3072.0.1920.1032" timestamp="1683295949486" />
+    <state width="1878" height="18" key="GridCell.Tab.2.bottom" timestamp="1679382566074">
+      <screen x="3072" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1494" height="174" key="GridCell.Tab.2.bottom/0.0.1536.912/3072.0.1920.1032@0.0.1536.912" timestamp="1676729941332" />
+    <state width="1878" height="18" key="GridCell.Tab.2.bottom/0.0.1536.912/3072.0.1920.1032@3072.0.1920.1032" timestamp="1679382566074" />
+    <state width="1878" height="18" key="GridCell.Tab.2.center" timestamp="1679382566074">
+      <screen x="3072" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1494" height="174" key="GridCell.Tab.2.center/0.0.1536.912/3072.0.1920.1032@0.0.1536.912" timestamp="1676729941332" />
+    <state width="1878" height="18" key="GridCell.Tab.2.center/0.0.1536.912/3072.0.1920.1032@3072.0.1920.1032" timestamp="1679382566074" />
+    <state width="1878" height="18" key="GridCell.Tab.2.left" timestamp="1679382566074">
+      <screen x="3072" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1494" height="174" key="GridCell.Tab.2.left/0.0.1536.912/3072.0.1920.1032@0.0.1536.912" timestamp="1676729941332" />
+    <state width="1878" height="18" key="GridCell.Tab.2.left/0.0.1536.912/3072.0.1920.1032@3072.0.1920.1032" timestamp="1679382566074" />
+    <state width="1878" height="18" key="GridCell.Tab.2.right" timestamp="1679382566074">
+      <screen x="3072" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1494" height="174" key="GridCell.Tab.2.right/0.0.1536.912/3072.0.1920.1032@0.0.1536.912" timestamp="1676729941332" />
+    <state width="1878" height="18" key="GridCell.Tab.2.right/0.0.1536.912/3072.0.1920.1032@3072.0.1920.1032" timestamp="1679382566074" />
+    <state x="3195" y="228" key="SettingsEditor" timestamp="1677726619032">
+      <screen x="3072" y="0" width="1920" height="1032" />
+    </state>
+    <state x="185" y="156" key="SettingsEditor/0.0.1536.912/3072.0.1920.1032@0.0.1536.912" timestamp="1677116561860" />
+    <state x="3195" y="228" key="SettingsEditor/0.0.1536.912/3072.0.1920.1032@3072.0.1920.1032" timestamp="1677726619032" />
+    <state x="3754" y="257" width="591" height="524" key="StructurePopup" timestamp="1683294435429">
+      <screen x="3072" y="0" width="1920" height="1032" />
+    </state>
+    <state x="3754" y="257" width="591" height="524" key="StructurePopup/0.0.1536.912/3072.0.1920.1032@3072.0.1920.1032" timestamp="1683294435429" />
+    <state width="968" height="524" key="XDebugger.FullValuePopup" timestamp="1677310097755">
+      <screen x="3072" y="0" width="1920" height="1032" />
+    </state>
+    <state width="968" height="524" key="XDebugger.FullValuePopup/0.0.1536.912/3072.0.1920.1032@3072.0.1920.1032" timestamp="1677310097755" />
+    <state x="3712" y="340" key="com.intellij.ide.util.TipDialog" timestamp="1679384347653">
+      <screen x="3072" y="0" width="1920" height="1032" />
+    </state>
+    <state x="512" y="300" key="com.intellij.ide.util.TipDialog/0.0.1536.912/3072.0.1920.1032@0.0.1536.912" timestamp="1677116436051" />
+    <state x="3712" y="340" key="com.intellij.ide.util.TipDialog/0.0.1536.912/3072.0.1920.1032@3072.0.1920.1032" timestamp="1679384347653" />
+    <state x="447" y="55" width="941" height="801" key="find.popup" timestamp="1677725782025">
+      <screen x="0" y="0" width="1536" height="912" />
+    </state>
+    <state x="447" y="55" width="941" height="801" key="find.popup/0.0.1536.912/3072.0.1920.1032@0.0.1536.912" timestamp="1677725782025" />
+    <state x="3631" y="62" width="1177" height="907" key="find.popup/0.0.1536.912/3072.0.1920.1032@3072.0.1920.1032" timestamp="1677302963331" />
+    <state x="3613" y="222" width="840" height="768" key="search.everywhere.popup" timestamp="1681185664740">
+      <screen x="3072" y="0" width="1920" height="1032" />
+    </state>
+    <state x="3613" y="222" width="840" height="768" key="search.everywhere.popup/0.0.1536.912/3072.0.1920.1032@3072.0.1920.1032" timestamp="1681185664740" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/blog-framework/src/main/java/com/aybss/service/impl/PermissionService.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/jsonwebtoken/jjwt/0.9.0/jjwt-0.9.0-sources.jar!/io/jsonwebtoken/impl/DefaultJwtBuilder.java</url>
+          <line>256</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/blog-front/src/test/java/com/aybss/ApplicationTest.java</url>
+          <line>196</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/blog-framework/src/main/java/com/aybss/utils/JwtUtil.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
